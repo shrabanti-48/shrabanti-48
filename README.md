@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shrabanti Dey
 - 👀 I’m interested in Machine Learning & Data Science
-- 🌱 I’m currently pursuing B.tech (ECE)
+- 🌱 I have pursued B.techin ECE and I am a Software Engineer
 
 
 <!---
